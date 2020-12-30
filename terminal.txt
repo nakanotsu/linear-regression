@@ -1,0 +1,2 @@
+pohm@pohm-master:~/Desktop$ gcc -g -fopenmp -o final main.cpp -lm -ldl -lstdc++
+pohm@pohm-master:~/Desktop$ ./final smi.csv dollars.csv 2019
